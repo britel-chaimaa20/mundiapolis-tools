@@ -2,7 +2,7 @@
 
 In this project, we will practice the Git basic commands.
 
-*Install git*
+**Install git**
 
 If git is not already installed on your terminal:
 
